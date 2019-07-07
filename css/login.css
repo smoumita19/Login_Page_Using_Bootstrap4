@@ -1,0 +1,63 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-image: url("../images/background.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+
+.fa-pinterest-p, .fa-twitter, .fa-instagram, .fa-home
+{
+	font-size: 35px; 
+	padding-left:10px;
+}
+
+.container
+{
+	width:800px;
+	border-radius: 20px 20px 20px;
+	padding-bottom:  50px;
+	padding-left: 40px;
+	padding-right: 40px;
+	align-content: center;
+	background-color: rgba(0,0,0,0.5);
+	box-shadow: 10px 10px 10px rgba(0,0,0,0.6);
+}
+
+h1
+{
+	padding-top: 25px;
+	padding-left: 25px;
+
+}
+
+hr
+{
+	background-color: white;
+}
+
+.form-control
+{
+	border-radius: 60px 60px 60px;
+	background-color: rgba(255,255,255,0.5);
+}
+
+#button1
+{
+	margin-top: 10px;
+	width:150px;
+	background-color: orange;
+	border: none;
+}
+
+p
+{
+	color: white;
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align: right;
+}
