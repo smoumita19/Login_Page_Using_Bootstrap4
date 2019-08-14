@@ -12,11 +12,12 @@ body
 
 .fa-pinterest-p, .fa-twitter, .fa-instagram, .fa-home
 {
+	
 	font-size: 35px; 
 	padding-left:10px;
 }
 
-.container
+.form-fluid
 {
 	width:800px;
 	border-radius: 20px 20px 20px;
@@ -26,6 +27,11 @@ body
 	align-content: center;
 	background-color: rgba(0,0,0,0.5);
 	box-shadow: 10px 10px 10px rgba(0,0,0,0.6);
+}
+
+.navbar
+{
+	text-align: center;
 }
 
 h1
@@ -40,6 +46,12 @@ hr
 	background-color: white;
 }
 
+.container-fluid
+{
+	padding:2rem;
+	border-radius: 2rem 2rem 2rem;
+	background-color: rgba(0,0,0,0.5);
+}
 .form-control
 {
 	border-radius: 60px 60px 60px;
